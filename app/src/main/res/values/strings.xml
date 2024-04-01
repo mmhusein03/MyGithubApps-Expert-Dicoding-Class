@@ -13,7 +13,6 @@
     <string name="string_share">Share with</string>
     <string name="favorite">Favorite User</string>
     <string name="favorite_user">Daftar Favorite User</string>
-    <string name="message_empty_favorite_search">Belum terdapat User yang ditambahkan</string>
     <string name="title_favorite">Favorite</string>
     <string name="something_wrong">maaf, terjadi sebuah kesalahan</string>
 </resources>
