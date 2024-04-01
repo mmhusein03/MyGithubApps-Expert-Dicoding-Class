@@ -69,6 +69,7 @@ dependencies {
     implementation("com.squareup.okhttp3:logging-interceptor:4.11.0")
     api("androidx.lifecycle:lifecycle-livedata-ktx:2.7.0")
 
+
     implementation("net.zetetic:android-database-sqlcipher:4.4.0")
     implementation("androidx.sqlite:sqlite-ktx:2.4.0")
 }
