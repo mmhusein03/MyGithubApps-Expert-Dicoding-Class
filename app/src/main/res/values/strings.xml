@@ -1,11 +1,9 @@
 <resources>
     <string name="app_name">My Github Apps</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="searchbar_hint">Input userEntity name</string>
     <string name="log_message">Cari user melalu search bar diatas.</string>
     <string name="message_empty_search">maaf user yang anda cari tidak ditemukan</string>
-    <string name="usertNotFound">User tidak ditemukan</string>
     <string name="content_desc_back">this back button to previous layer</string>
     <string name="content_desc_share">this share button</string>
     <string name="tv_follow">100</string>
@@ -16,9 +14,6 @@
     <string name="favorite">Favorite User</string>
     <string name="favorite_user">Daftar Favorite User</string>
     <string name="message_empty_favorite_search">Belum terdapat User yang ditambahkan</string>
-    <string name="dark_mode">Dark Mode</string>
-    <string name="darkMode">Dark Theme</string>
-    <string name="lightMode">Light Theme</string>
     <string name="title_favorite">Favorite</string>
     <string name="something_wrong">maaf, terjadi sebuah kesalahan</string>
 </resources>
