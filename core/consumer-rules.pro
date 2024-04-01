@@ -96,4 +96,6 @@ public *;
  # With R8 full mode generic signatures are stripped for classes that are not kept.
  -keep,allowobfuscation,allowshrinking class retrofit2.Response
 
+ -keep class java.lang.invoke.StringConcatFactory
+
  -keep class com.md29.husein.core.data.source.remote.response.** { <fields>; }
