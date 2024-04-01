@@ -98,4 +98,4 @@ public *;
 
 -keep class com.md29.husein.core.data.source.remote.response.** { <fields>; }
 
--keep class java.lang.invoke.StringConcatFactory
+-dontwarn java.lang.invoke.StringConcatFactory
