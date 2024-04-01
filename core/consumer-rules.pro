@@ -98,4 +98,8 @@ public *;
 
 -keep class com.md29.husein.core.data.source.remote.response.** { <fields>; }
 
+-keep class com.md29.husein.core.data.source.local.entity.** { <fields>; }
+
+# Please add these rules to your existing keep rules in order to suppress warnings.
+# This is generated automatically by the Android Gradle plugin.
 -dontwarn java.lang.invoke.StringConcatFactory
